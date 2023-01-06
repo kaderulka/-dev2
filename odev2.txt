@@ -1,0 +1,38 @@
+<html>
+    <body>
+        <h1>KADER ULKA</h1>
+        <h3>Hakkımda</h3>
+        <p>Merhabalar ben Kader Ulka. Aksiyon ve gerilim severim.Her türlü yeniliğe karşı açık ve kendimi geliştirmeyi severim. Sayenizde yeni şeyler öğrenmeye devam ediyorum. Teşekkürler..</p>
+        <h3>İLGİ ALANLARIM</h3>    
+            <ol>
+                <li>Film</li>
+                <ul>
+                    <li>
+                        <a href= "https://www.imdb.com/title/tt8267604/">Kafernahum</a>
+                    </li>
+                    <li>Silenced</li> 
+                    <li>Batter Days</li>
+                </ul>
+                <li>Dizi</li>
+                <ul>
+                    <li>
+                        <a href="https://www.imdb.com/title/tt10919420/">Squid game</a>
+                    </li>
+                    <li>La case de papel</li>
+                    <li>Dark</li>
+                </ul>
+                <li>Kitap</li>
+                <ul>
+                    <li>
+                        <a href="https://www.goodreads.com/book/show/220826.K_rk_Mantolu_Madonna">Kürk Mantonlu Madonna</a>
+                    </li>
+                    <li>Küçük Prens</li>
+                    <li>Hayvan Çiftliği</li>
+                </ul>
+            </ol>
+            <h2>En Sevdiğim film</h2>
+            <h3>Wednesday</h3>
+            <img src="Wednesday.jpg">
+            <p>Wednesday, Addams Ailesi filminden Wednesday Addams karakterine dayanan Amerikan reşit olma, doğaüstü, korku komedisi internet dizisidir.</p>
+    </body>
+</html>
